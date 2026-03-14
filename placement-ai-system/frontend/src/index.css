@@ -1,0 +1,96 @@
+body{
+margin:0;
+font-family:Inter, Arial;
+background:#f4f6fb;
+}
+
+/* layout */
+
+.app-layout{
+display:flex;
+}
+
+/* sidebar */
+
+.sidebar{
+width:240px;
+height:100vh;
+background:#0b1736;
+color:white;
+position:fixed;
+padding:25px;
+}
+
+.sidebar-title{
+font-size:20px;
+font-weight:600;
+}
+
+.sidebar-sub{
+font-size:12px;
+opacity:.7;
+margin-bottom:40px;
+}
+
+.sidebar ul{
+list-style:none;
+padding:0;
+}
+
+.sidebar li{
+padding:12px;
+border-radius:8px;
+margin-bottom:8px;
+cursor:pointer;
+}
+
+.sidebar li:hover{
+background:#1a2b5f;
+}
+
+.sidebar .active{
+background:linear-gradient(90deg,#6c63ff,#7c6cff);
+}
+
+/* main */
+
+.main{
+margin-left:240px;
+width:100%;
+padding:30px;
+}
+
+/* cards */
+
+.card{
+background:white;
+border-radius:12px;
+padding:25px;
+box-shadow:0 4px 12px rgba(0,0,0,0.05);
+}
+
+/* grid */
+
+.grid-2{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:25px;
+}
+
+.grid-4{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+gap:20px;
+}
+
+/* button */
+
+.btn-primary{
+background:linear-gradient(90deg,#6c63ff,#7c6cff);
+color:white;
+border:none;
+padding:12px;
+border-radius:8px;
+cursor:pointer;
+width:100%;
+}
