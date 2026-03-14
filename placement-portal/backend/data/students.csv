@@ -1,0 +1,11 @@
+Name,Sec,RollNo,Dept,Aptitude_Score,Mock_Interview_Score,Problems_Solved,Hackathon_Count,Technical_Test_Score,Resume_Score,Projects_Count,Placement_Readiness,Placement_Probabilties
+Alice Johnson,A,21CS001,CSE,85,78,45,3,82,75,2,High,0.85
+Bob Smith,B,21CS002,CSE,72,68,25,1,70,65,1,Medium,0.65
+Carol Davis,A,21ECE001,ECE,90,85,60,5,88,80,3,High,0.92
+David Wilson,B,21ECE002,ECE,65,70,30,2,68,70,2,Medium,0.58
+Emma Brown,A,21EEE001,EEE,78,75,40,3,75,72,2,High,0.78
+Frank Davis,B,21EEE002,EEE,60,65,20,1,62,60,1,Low,0.45
+Grace Miller,A,21MECH001,MECH,82,80,35,4,78,76,2,High,0.82
+Henry Wilson,B,21MECH002,MECH,70,72,28,2,70,68,1,Medium,0.62
+Ivy Taylor,A,21CIVIL001,CIVIL,75,70,32,3,72,70,2,Medium,0.70
+Jack Anderson,B,21CIVIL002,CIVIL,68,65,25,1,65,62,1,Medium,0.55

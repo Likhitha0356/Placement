@@ -1,0 +1,70 @@
+{
+  "F001": {
+    "id": "F001",
+    "name": "Dr. Sarah Johnson",
+    "email": "sarah.johnson@college.edu",
+    "phone": "+1 (555) 123-4567",
+    "department": "Computer Science",
+    "designation": "Professor & Head of Department",
+    "experience": 15,
+    "education": [
+      { "degree": "Ph.D. in Computer Science", "university": "Stanford University", "year": "2008" },
+      { "degree": "M.S. in Computer Science", "university": "MIT", "year": "2004" }
+    ],
+    "expertise": ["Machine Learning", "Data Science", "Algorithms", "Software Engineering", "AI Ethics"],
+    "publications": 45,
+    "studentsMentored": 250,
+    "courses": ["Data Structures", "Machine Learning", "Algorithms", "Software Engineering"],
+    "officeLocation": "Computer Science Building, Room 301",
+    "officeHours": "Monday-Wednesday: 2:00 PM - 4:00 PM",
+    "bio": "Dr. Sarah Johnson is a distinguished professor with over 15 years of experience in computer science education and research.",
+    "achievements": ["Best Researcher Award 2022", "Excellence in Teaching Award 2020", "Published 45+ research papers"],
+    "researchInterests": ["Machine Learning", "AI Ethics", "Data Science", "NLP", "Computer Vision"],
+    "linkedin": "https://linkedin.com/in/sarahjohnson",
+    "website": "https://sarahjohnson.edu"
+  },
+  "F002": {
+    "id": "F002",
+    "name": "Prof. Rajesh Kumar",
+    "email": "rajesh.kumar@college.edu",
+    "phone": "+1 (555) 234-5678",
+    "department": "Electronics & Communication",
+    "designation": "Associate Professor",
+    "experience": 12,
+    "education": [
+      { "degree": "Ph.D. in ECE", "university": "IIT Delhi", "year": "2010" },
+      { "degree": "M.Tech in VLSI", "university": "IIT Bombay", "year": "2006" }
+    ],
+    "expertise": ["VLSI Design", "Embedded Systems", "Signal Processing", "IoT"],
+    "publications": 32,
+    "studentsMentored": 180,
+    "courses": ["Digital Electronics", "Embedded Systems", "Signal Processing"],
+    "officeLocation": "ECE Block, Room 205",
+    "officeHours": "Tuesday-Thursday: 10:00 AM - 12:00 PM",
+    "bio": "Prof. Rajesh Kumar specializes in VLSI and embedded systems with industry collaboration experience.",
+    "achievements": ["Industry Collaboration Award 2021", "Best Paper Award at IEEE Conference 2019"],
+    "researchInterests": ["Low Power VLSI", "Embedded IoT", "Signal Processing"],
+    "linkedin": "https://linkedin.com/in/rajeshkumar"
+  },
+  "default": {
+    "id": "default",
+    "name": "Faculty User",
+    "email": "faculty@college.edu",
+    "phone": "",
+    "department": "Computer Science",
+    "designation": "Faculty",
+    "experience": 5,
+    "education": [{ "degree": "M.Tech", "university": "University", "year": "2018" }],
+    "expertise": ["Placement Training", "Career Guidance"],
+    "publications": 0,
+    "studentsMentored": 0,
+    "courses": [],
+    "officeLocation": "Main Block",
+    "officeHours": "As per schedule",
+    "bio": "Placement and career guidance faculty.",
+    "achievements": [],
+    "researchInterests": [],
+    "linkedin": "",
+    "website": ""
+  }
+}
